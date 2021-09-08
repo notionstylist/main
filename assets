@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/notionstylist/main.git
 git push -u origin main
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.27 15.24"><defs><style>.cls-1{fill:#f3b9b5;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M45.78,9.52c-13.47-1.25-27.56.24-41.3.79-6.06.24-5-2.74-2.56-3.4,7.7-2.12,42.37-.2,43.3-1.28C44.15,4,40.26-.28,43.72,0c1.59.14,12.64,5.15,12.55,6.36S48.72,13.83,45.41,15C43,15.87,42.2,14.43,45.78,9.52Z"/></g></g></svg>
